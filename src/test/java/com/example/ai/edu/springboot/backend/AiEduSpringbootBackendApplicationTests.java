@@ -1,4 +1,4 @@
-package com.example.ai_edu_springboot_backend;
+package com.example.ai.edu.springboot.backend;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
